@@ -89,5 +89,5 @@ Frontend runs on: http://localhost:5173
 💖 Author
 Satyam Singh
 📍 Ayodhya
-🎓 MCA Graduate | Web Developer
+🎓 MCA Graduate | Software Developer
 🔗 https://www.linkedin.com/in/satyam-singh-3505b425b/
