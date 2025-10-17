@@ -16,6 +16,10 @@ It allows users to sign up, log in, take quizzes on various technologies, and vi
 
 ---
 
+🧩 ### Example Screenshots
+
+<img width="1912" height="1037" alt="Screenshot 2025-10-17 220614" src="https://github.com/user-attachments/assets/78bd28ea-c371-4e27-816a-f2328744e85c" />
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -73,10 +77,6 @@ cd frontend
 npm run dev
 Frontend runs on: http://localhost:5173 
 │
-
-🧩 ## Example Screenshots
-
-<img width="1912" height="1037" alt="Screenshot 2025-10-17 220614" src="https://github.com/user-attachments/assets/78bd28ea-c371-4e27-816a-f2328744e85c" />
 
 📚 Future Enhancements
 🧠 Add quiz-taking functionality with live scoring
