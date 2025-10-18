@@ -30,7 +30,7 @@ export default async function authMiddleware(req, res, next) {
         console.error('JWT VERIFICATION FAILED', err);
         return res.status(401).json({ 
             success: false, 
-            message: 'Invalid token or expired' 
+            message: 'Invalid token or expred' 
         });
     }
 }
